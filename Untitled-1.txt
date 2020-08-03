@@ -1,0 +1,21 @@
+ <div class="row">
+                                        <div class="info-item padd-15">
+                                            <p>Birthday : <span>5 june 1992</span></p>
+                                        </div>
+                                        <div class="info-item padd-15">
+                                            <p>Age : <span>20</span></p>
+                                        </div>
+                                        <div class="info-item padd-15">
+                                            <p>Email : <span>ukponoakpan270@gmail.com</span></p>
+                                        </div>
+                                        <div class="info-item padd-15">
+                                            <p>website : <span>5 june 1992</span></p>
+                                        </div>
+                                        <div class="info-item padd-15">
+                                            <p>Phone : <span>08163423850</span></p>
+                                        </div>
+                                        <div class="info-item padd-15">
+                                            <p>City : <span>Uyo</span></p>
+                                        </div>
+
+                                    </div>
